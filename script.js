@@ -1,5 +1,3 @@
-// static/script.js
-
 function searchLogs() {
     const searchQuery = document.getElementById('searchQuery').value;
     const filterQuery = document.getElementById('filterQuery').value;
